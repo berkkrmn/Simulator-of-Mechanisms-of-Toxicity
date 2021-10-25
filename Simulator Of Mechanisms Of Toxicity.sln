@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulator Of Mechanisms Of Toxicity", "Simulator Of Mechanisms Of Toxicity.csproj", "{549BB2BF-C5D5-4B2A-8A1B-0B887F2C8B1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{549BB2BF-C5D5-4B2A-8A1B-0B887F2C8B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549BB2BF-C5D5-4B2A-8A1B-0B887F2C8B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549BB2BF-C5D5-4B2A-8A1B-0B887F2C8B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549BB2BF-C5D5-4B2A-8A1B-0B887F2C8B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76D85AB4-0790-4939-9596-A63D26B64E93}
+	EndGlobalSection
+EndGlobal
